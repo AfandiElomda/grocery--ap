@@ -1,0 +1,25 @@
+{
+    "items": [
+    
+        {
+          "id":1,
+          "checked":false,
+          "item":"bread"
+        },
+        {
+            "id":2,
+            "checked":false,
+            "item":"butter"
+        },
+        {
+            "id":3,
+            "checked":false,
+            "item":"vegetables"
+        },
+        {
+            "id":4,
+            "checked":false,
+            "item":"meat"
+        }
+    ]
+}
